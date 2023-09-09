@@ -1,3 +1,7 @@
+/* Un sitio web debe permitir a un usuario ingresar si y solo si es mayor de edad.
+-Probar con un usuario que nació en 2010, 1983 y 2007
+*/
+
 let anio_nacimiento = prompt("Ingrese año de nacimiento");
 
 let anio_actual=new Date().getFullYear();
