@@ -1,4 +1,4 @@
-
+/*Dado un array de edades obtener el promedio y desplegar en pantalla a través de un alert */
 const edades = [10, 20, 30, 21];
 
 // almaceno la suma de los números en la variable suma
