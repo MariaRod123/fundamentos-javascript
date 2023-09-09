@@ -1,3 +1,5 @@
+/* Crear funciones para una calculadora básica entre dos números: suma, resta, multiplicación y división*/
+
 let valor1= prompt("Ingrese un número");
 valor1 = parseFloat(valor1);
 let valor2= prompt("Ingrese otro número");
