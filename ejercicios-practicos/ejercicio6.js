@@ -4,9 +4,11 @@ const array2=[7, -3, 6, 9, 12, 4, 0.5];
 
 function Sumatoria(array1, array2){
     if (array1.length === array2.length){
-        const sumatoria=[];
+        let sumatoria=0;
+
         for (let i = 0; i < array1.length; i++) {
-            sumatoria.push(array1[i] + array2[i]);
+            sumatoria += array1[i] + array2[i];
+            
         }
         return sumatoria;
     } else {
