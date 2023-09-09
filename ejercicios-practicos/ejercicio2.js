@@ -1,4 +1,5 @@
-
+/* Dado el array de edades obtener el promedio de las edades para alumnos mayores a 10 años
+*/
 const edades = [10, 20, 30, 21];
 
 //Este array vacío va a almacenar las edades mayores a 10
