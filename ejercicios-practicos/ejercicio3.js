@@ -1,3 +1,7 @@
+/* Un aeropuerto permite viajar al exterior a pasajeros que cumplan las siguientes condiciones:
+-Pasaporte al día
+- Test PCR negativo
+- Pasaje de aerolínea */
 
 let pasaporte_vigente= prompt ("¿Tiene pasaporte vigente?: 1-Si  2-No");
 
