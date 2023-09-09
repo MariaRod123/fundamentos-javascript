@@ -1,3 +1,4 @@
+/* Crear una calculadora para sumatorias donde los parametros son 2 array de igual longitud*/
 
 const array1=[0, 1, 9, 20, -6, 3, 5.2];
 const array2=[7, -3, 6, 9, 12, 4, 0.5];
