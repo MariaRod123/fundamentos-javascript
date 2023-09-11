@@ -3,7 +3,7 @@ let perro="Toby";
 var temperatura=16.9;
 const pi=3.14159;
 let dia=12;
-const elementos=["naranja", 20, null ]
+const elementos=["naranja", 20, null ];
 
 
 
