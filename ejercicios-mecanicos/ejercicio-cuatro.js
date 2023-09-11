@@ -1,3 +1,9 @@
+/*Define 4 variables con nombres distintos que contengan valores booleanos. Luego compare 1 a 1 entre ellos utilizando
+los siguientes operadores lógicos:
+-AND
+-OR
+-NOT
+*/
 let a = true;
 let b= false;
 let c = true;
